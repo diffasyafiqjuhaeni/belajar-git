@@ -1,0 +1,5 @@
+list
+- bangun pagi
+- solat subuh
+- mandi
+- berangkat kerja
