@@ -2,4 +2,6 @@ list
 - bangun pagi
 - solat subuh
 - mandi
+- sarapan
+- beli kopi
 - berangkat kerja
